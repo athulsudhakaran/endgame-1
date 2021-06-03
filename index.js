@@ -21,8 +21,8 @@
 
 
   var questions=[{
-    question:"where are you frm ",
-    answer:"kannur"
+    question:"what is ur favorite sport ",
+    answer:"football"
   },
   {
     question:"my fav superhero would be ",
